@@ -14,6 +14,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -62,6 +64,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Irregular ",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -109,6 +113,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -156,6 +162,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -203,6 +211,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -250,6 +260,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Irregular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -297,6 +309,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -344,6 +358,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -391,6 +407,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Irregular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {
@@ -438,6 +456,8 @@ export const studentData = [
     Board: "Rajshahi",
     Group: "Science",
     Type: "Regular",
+    Year: 2017,
+    Exam: "SSC",
 
     Result: [
       {

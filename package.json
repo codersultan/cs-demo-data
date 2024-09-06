@@ -1,7 +1,7 @@
 {
   "name": "cs-demo-data",
-  "version": "1.0.0",
-  "description": "This package can use as demo database. Can use those demo data on JS project. ",
+  "version": "2.1.1",
+  "description": "A helper as demo database on JS project. (Demo Post, Student Data, Team Members) ",
   "main": "index.js",
   "type": "module",
   "scripts": {
